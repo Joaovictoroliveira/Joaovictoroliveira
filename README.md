@@ -1,4 +1,4 @@
-<div>
+<div align="center">
     <img src="/assets/magari.gif">
 <div>
 
