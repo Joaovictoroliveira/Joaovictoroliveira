@@ -4,7 +4,7 @@
 
 <hr>
 
-<h3>Skills & Git Stats</h3>
+<h3 align="left">Skills & Git Stats</h3>
 
 <div>
   <a href="https://github.com/joaovictoroliveira">
