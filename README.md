@@ -2,6 +2,10 @@
     <img src="/assets/magari.gif">
 <div>
 
+<hr>
+
+<h3>Skills & Git Stats</h3>
+
 <div>
   <a href="https://github.com/joaovictoroliveira">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovictoroliveira&count_private=true&show_icons=true&theme=tokyonight"/>
